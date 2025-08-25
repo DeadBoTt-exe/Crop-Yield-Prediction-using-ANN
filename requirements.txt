@@ -1,3 +1,7 @@
+#! command to install the required python packages
+# before running the below code open the terminal where the file is
+# pip install -r requirements.txt
+
 tensorflow>=2.8.0
 keras>=2.8.0
 scikit-learn>=1.0.2
